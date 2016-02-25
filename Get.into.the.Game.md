@@ -65,7 +65,7 @@ The stage is the area on the left, and is where your project comes to life. Thin
 
 	![screenshot](football-backdrop.png)
 
-+ Click ‘Outdoors’ on the left and then click on a goal backdrop and click the ‘OK’ button in the bottom right corner.
++ Click ‘Outdoors’ on the left and then click on a goal backdrop and click ‘OK’.
 
 	![screenshot](football-goal.png)
 
