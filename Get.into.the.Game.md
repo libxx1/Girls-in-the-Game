@@ -43,7 +43,7 @@ Can you add the sprite ‘Soccer Ball’ to your project?
 
 ## Activity Checklist { .check }
 
-You’ll notice the Soccer Ball is too big. You can resize sprites by clicking on the ‘shrink’ icon, located in on the top toolbar, then clicking on the sprite you want to change. 
+You’ll notice the soccer ball is too big. You can resize sprites by clicking on the ‘shrink’ icon, located in the top toolbar, then clicking on the sprite you want to change. 
 
 	![screenshot](football-shrink.png)
 
