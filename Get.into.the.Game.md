@@ -79,7 +79,7 @@ Let’s code Adrian to kick the soccer ball sprite.
 
 ## Activity Checklist { .check }
 
-+ To make Adrian look like she is kicking the ball we need two of her costumes. Go to the ‘Sprites’ box and click on the icon for Adrian, then on her ‘Costumes’ tab, and you’ll see 3 costumes.
++ To make Adrian look like she is kicking the ball we need two of her costumes. From the ‘Sprites’ box, click on the icon for Adrian, then on her ‘Costumes’ tab, and you’ll see 3 costumes.
 
 	![screenshot](football-costumes.png)
 
