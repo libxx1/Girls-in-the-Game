@@ -114,7 +114,7 @@ You can then type ‘kick’ to create your new message.
 
 The `repeat` {.blockcontrol} block is used to repeat something lots of times, and is also known as a __loop__. 
 
-+ Click on the flag to see your new animation. 
++ Click on the green flag, next to where you named your project, to see your new animation in action. 
 
 # Step 5: Some fans { .activity .new-page }
 
@@ -140,7 +140,7 @@ If Anna is a bit too big, can you use the shrink tool to resize her.
 
 	![screenshot](football-cheer.png)
 
-+ Click on the green flag, next to where you named your project, to see your animation in action. 
++ Click on the flag to see your new animation.  
 
 ## Save your project { .save }
 
