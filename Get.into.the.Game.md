@@ -34,7 +34,7 @@ Before you can start coding, you’ll need to add in a ‘thing’ to code. In S
 
 	![screenshot](football-library.png)
 
-+ Search until you see a sprite called ‘Adrian’. Click on her and click ‘OK’ to add her to your project.
++ Search until you see a sprite called ‘Adrian’. Click on her and click the ‘OK’ button from the botton-right corner to add her to your project.
 
 	![screenshot](football-adrian.png)
 
