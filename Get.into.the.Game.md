@@ -30,7 +30,7 @@ Before you can start coding, you’ll need to add in a ‘thing’ to code. In S
 
 	![screenshot](football-felix.png)
 
-+ Next, locate the ‘New sprite’ icons from the Sprite box. Click ‘Choose sprite from library’ to open up a list of all the Scratch sprites.
++ Next, locate the ‘New sprite’ icons from the 'Sprites' box. Click ‘Choose sprite from library’ to open up a list of all the Scratch sprites.
 
 	![screenshot](football-library.png)
 
