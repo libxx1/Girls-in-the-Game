@@ -87,7 +87,9 @@ Let’s code Adrian to kick the soccer ball sprite.
 
 	![screenshot](football-rename.png)
 
-+ Now we need to add some code. You can find the code blocks in the ‘Scripts’ tab, and they are all colour-coded! Drag these blocks into the code area to the right, making sure that they are connected together (like Lego blocks):
++ Now we need to add some code. You can find the code blocks in the ‘Scripts’ tab, and they are all colour-coded! We'll start our code when the green flag is clicked, you can find the block needed under the dark orange 'Events' section. Locate the block and drag it to the code area to the right. 
+
+The next code block can be found in the dark blue 'Motion' section, drag it underneath your first block making sure that they are connected together (like Lego blocks). Keep going until your code looks like this:
 
 	![screenshot](football-kick.png)
 
