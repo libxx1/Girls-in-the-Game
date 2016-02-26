@@ -118,7 +118,7 @@ You can then type ‘kick’ to create your new message.
 
 The `repeat` {.blockcontrol} block is used to repeat something lots of times, and is also known as a __loop__. 
 
-+ Click on the green flag, next to where you named your project, to see your new animation in action. 
++ Click on the green flag, at the top-right of the stage, to see your new animation in action. 
 
 # Step 5: Some fans { .activity .new-page }
 
