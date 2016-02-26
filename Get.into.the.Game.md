@@ -43,7 +43,7 @@ Can you add the sprite ‘Soccer Ball’ to your project?
 
 ## Activity Checklist { .check }
 
-You’ll notice the soccer ball is too big. You can resize sprites by clicking on the ‘shrink’ icon, located in the top toolbar, then clicking on the sprite you want to change. 
++ You’ll notice the soccer ball is too big. You can resize sprites by clicking on the ‘shrink’ icon, located in the top toolbar, then clicking on the sprite you want to change. 
 
 	![screenshot](football-shrink.png)
 
@@ -89,7 +89,9 @@ Let’s code Adrian to kick the soccer ball sprite.
 
 + Now we need to add some code. You can find the code blocks in the ‘Scripts’ tab, and they are all colour-coded! We'll start our code when the green flag is clicked, you can find the block needed under the dark orange 'Events' section. Locate the block and drag it to the code area to the right. 
 
-The next code block can be found in the dark blue 'Motion' section, drag it underneath your first block making sure that they are connected together (like Lego blocks). Keep going until your code looks like this:
+	![screenshot](football-code.png)
+
++ The next code block can be found in the dark blue 'Motion' section, drag it underneath your first block making sure that they are connected together (like Lego blocks). Keep going until your code looks like this:
 
 	![screenshot](football-kick.png)
 
