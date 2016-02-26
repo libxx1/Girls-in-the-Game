@@ -132,6 +132,7 @@ Now we’re going to add some fans to cheer when Adrian kicks the ball into the 
 
 ## Challenge: Preparing to animate {.challenge}
 Can you rename Anna’s costumes to arms-side and arms-up to make them more obvious?
+
 If Anna is a bit too big, can you use the shrink tool to resize her? 
 
 ## Activity Checklist { .check }
